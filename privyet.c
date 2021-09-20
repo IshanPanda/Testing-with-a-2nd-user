@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("privyet\n");
+	printf("namaste\n");
 	return 0;
 }
