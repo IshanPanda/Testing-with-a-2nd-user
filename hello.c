@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello Dom\n");
+	printf("Hello House\n");
 	return 0;
 }
